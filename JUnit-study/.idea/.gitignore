@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\Guilherme\Google Drive\Documentos\Estágio\Alura\Java EE\Java e JPA - Pesquise com JPQL e Criteria\Unit-test\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
