@@ -1,0 +1,9 @@
+
+#card{
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    background-color: rgb(231, 231, 231);
+    display: inline-block;
+    border-radius: 10px;
+}
